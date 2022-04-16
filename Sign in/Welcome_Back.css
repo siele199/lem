@@ -1,0 +1,128 @@
+.mediaViewInfo {
+	--web-view-name: Welcome Back – 1;
+	--web-view-id: Welcome_Back__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Welcome_Back__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Welcome_Back__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1000px;
+	overflow: hidden;
+	--web-view-name: Welcome Back – 1;
+	--web-view-id: Welcome_Back__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_42 {
+	position: absolute;
+	width: 1920px;
+	height: 1000px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#pexels-ioana-motoc-9899497 {
+	position: absolute;
+	width: 1920px;
+	height: 1000px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	opacity: 0.3;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 1000px;
+	left: 960px;
+	top: 0px;
+}
+#Path_1 {
+	opacity: 0.59;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 585px;
+	height: 874px;
+	left: 1304px;
+	top: 64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Enjoy_Our_services__Welcome_Ba {
+	left: 431.255px;
+	top: 106px;
+	position: absolute;
+	overflow: visible;
+	width: 639px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	color: rgba(255,255,255,1);
+}
+#John_Doe {
+	left: 1466px;
+	top: 502.174px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 59px;
+	color: rgba(47,80,191,1);
+}
+#Text {
+	left: 1151.124px;
+	top: 438.214px;
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(142,142,142,1);
+}
+#user {
+	position: absolute;
+	width: 228px;
+	height: 228px;
+	left: 1483px;
+	top: 235.276px;
+	overflow: visible;
+}

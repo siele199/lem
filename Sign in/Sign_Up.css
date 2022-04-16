@@ -1,0 +1,414 @@
+.mediaViewInfo {
+	--web-view-name: Sign Up – 1;
+	--web-view-id: Sign_Up__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sign_Up__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sign_Up__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1000px;
+	overflow: hidden;
+	--web-view-name: Sign Up – 1;
+	--web-view-id: Sign_Up__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_45 {
+	position: absolute;
+	width: 1920px;
+	height: 1000px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#pexels-ioana-motoc-9899497 {
+	position: absolute;
+	width: 1899.902px;
+	height: 1000px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_19 {
+	opacity: 0.3;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 960px;
+	height: 1000px;
+	left: 960px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1 {
+	opacity: 0.59;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 585px;
+	height: 874px;
+	left: 1283.902px;
+	top: 64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_Join_Us_Sign_Up_with_us_and_ {
+	left: 431.536px;
+	top: 106px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	color: rgba(255,255,255,1);
+}
+#Join_Us_Today {
+	left: 1427.902px;
+	top: 123px;
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(47,80,191,1);
+}
+#Group_37 {
+	position: absolute;
+	width: 487px;
+	height: 56px;
+	left: 1332.902px;
+	top: 607.823px;
+	overflow: visible;
+}
+#Rectangle_10 {
+	fill: rgba(47,80,191,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_Up {
+	left: 190px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#Group_38 {
+	position: absolute;
+	width: 464px;
+	height: 40px;
+	left: 1344.402px;
+	top: 686.457px;
+	overflow: visible;
+}
+#OR {
+	left: 208.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(30,30,30,1);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 179px;
+	height: 2px;
+	left: 0px;
+	top: 20.974px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 179px;
+	height: 2px;
+	left: 285px;
+	top: 20.974px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_36 {
+	position: absolute;
+	width: 487px;
+	height: 56px;
+	left: 1332.902px;
+	top: 743.127px;
+	overflow: visible;
+}
+#Rectangle_11 {
+	fill: rgba(47,80,191,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sign_In.html;
+	cursor: pointer;
+}
+#Sign_In {
+	left: 195px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_39 {
+	position: absolute;
+	width: 487px;
+	height: 70px;
+	left: 1330.902px;
+	top: 287.436px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Your_Email {
+	left: 22px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(142,142,142,1);
+}
+#Text {
+	left: 1138.871px;
+	top: 438.214px;
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(142,142,142,1);
+}
+#Group_40 {
+	position: absolute;
+	width: 487px;
+	height: 70px;
+	left: 1330.902px;
+	top: 401.993px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#New_Password {
+	left: 22px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(142,142,142,1);
+}
+#Group_41 {
+	position: absolute;
+	width: 487px;
+	height: 70px;
+	left: 1330.902px;
+	top: 496.764px;
+	overflow: visible;
+}
+#Rectangle_9_ {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9_ {
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Confirm_Password {
+	left: 22px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(142,142,142,1);
+}
+#user {
+	position: absolute;
+	width: 102px;
+	height: 102px;
+	left: 1496.957px;
+	top: 21px;
+	overflow: visible;
+}
+#Forgot_your_password_ {
+	left: 1489.902px;
+	top: 861px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Password_Recovery.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(27,56,204,1);
+}
